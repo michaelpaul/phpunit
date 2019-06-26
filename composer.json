@@ -58,7 +58,6 @@
     "extra": {
         "branch-alias": {
             "dev-master": "3.7.x-dev",
-            "dev-php73": "3.7.x-dev"
         }
     },
     "include-path": [
